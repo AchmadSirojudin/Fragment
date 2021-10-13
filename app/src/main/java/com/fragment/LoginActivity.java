@@ -16,8 +16,12 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void menu_activity(View view) {
+       test();
+    }
+
+    public void test(){
         Intent LoginMenu = new Intent(LoginActivity.this, MainActivity.class);
-        startActivity(LoginMenu);
         Toast.makeText(LoginActivity.this,"Login Berhasil",Toast.LENGTH_SHORT).show();
+        startActivity(LoginMenu);
     }
 }
