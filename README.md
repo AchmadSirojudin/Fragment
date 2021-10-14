@@ -8,8 +8,11 @@ NIM : E41201607
 Golongan : TIF C'20
 
 1. Halaman Daftar & Login
+
 Intent Implisit dan Explicit terdapat pada halaman ini,
+
 Button Login adalah intent explicit
+
 TextButton Daftar adalah intent implisit
 
 ![image](https://user-images.githubusercontent.com/80249314/137237603-b7dcada7-60bb-4a0b-9e27-fc876d91a73c.png)
